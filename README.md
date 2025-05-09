@@ -1,3 +1,5 @@
+Link al repositorio: https://github.com/MarioGonzalo/Simulacro_Examen-Parcial-2-2024_2025.git
+
 # Simulacro_Examen-Parcial-2-2024_2025
 
 ## Parte I: Capa de Red
@@ -184,13 +186,14 @@ Pregunta 6: Comparación entre TCP y UDP
 | **Velocidad de transmisión**        | Más lenta, debido a los controles y garantías     | Más rápida, al ser más ligera y sin controles  |
 
 
-b) Menciona dos ejemplos de aplicaciones en las que se prefiera usar UDP y justifica la elección.
+**b) Menciona dos ejemplos de aplicaciones en las que se prefiera usar UDP y justifica la elección.**
 
 Los momentos en los que se prefiere emplear el protocolo UDP es en el que no importa que no lleguen algunos paquetes y premia más la velocidad en que se entreguen, por ejemplo, en una retransmisión en directo on en algún videojuego online que la pérdida de algunos paquetes es necesaria para que la retransmisión o el juego tengan la mínima latencia posible.
 
 
 Pregunta 7: Establecimiento y Terminación de Conexión en TCP
 **Describe en detalle el proceso de establecimiento de conexión en TCP (Three-Way Handshake) y el proceso de terminación de la conexión (Four-Way Handshake). Explica la importancia de cada uno de los pasos involucrados.**
+El establecimiento de conexión en TCP tiene tres pasos para asegurarse de que la conexión es correcta.
 
 Pregunta 8: Multiplexación y Demultiplexación
 **Explica el concepto de multiplexación descendente y multiplexación ascendente en la capa de transporte, y proporciona un ejemplo práctico para cada caso.**
